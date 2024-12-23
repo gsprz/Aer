@@ -16,4 +16,4 @@ Descrizioni e riferimenti al report:
 
 - alfa_zerolift.zip: altra metodologia basata su XFOIL per il confronto dell'alha 0 calcolato numericamente in analysis_airfoil.zip (SEZIONE 1.2 DEL REPORT).
 
-- 
+- transizione_e_separazione.zip: script che tramite l'utilizzo di XFOIL analizza transizione e separazione dei profili del NACA0012 e del B737D (SEZIONE 1.3 DEL REPORT).
