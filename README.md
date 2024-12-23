@@ -10,5 +10,5 @@ Descrizioni e riferimenti al report:
 
 - alaellittica.m: lo script permette di calcolare e fare il grafico della distribuzione ellittica di circolazione associata al velivolo i cui parametri sono stati inseriti nel main. eseguire lo script alaellittica.m dopo aver eseguito il main di weissinger_cessna_da40.zip.
 
-- hess_smith.zip: il main di questa cartella va compilato con i file .dat e le mat functions tutte in una stessa cartella, esso presenta il cl e il cm dei profili, ponendo la variabile 'riferimento' pari a 1 si analizza il NACA0012, mentre ponendo la variabile 'riferimento' pari a qualsiasi altro numero si analizza il profilo B737D.
+- hess_smith.zip: il main di questa cartella va compilato con i file .dat e le mat functions tutte in una stessa cartella, esso presenta cp, cl e cm dei profili, ponendo la variabile 'riferimento' pari a 1 si analizza il NACA0012, mentre ponendo la variabile 'riferimento' pari a qualsiasi altro numero si analizza il profilo B737D.
 
