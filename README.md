@@ -1,2 +1,3 @@
-Decription and references to the report sections:
+Descrizioni e riferimenti al report:
+
 - weissinger_cessna_da40: in questa cartella zippata è presente il main di weissinger che va compilato assieme a tutte le funzioni e il file .dat presenti all'interno della stessa cartella. A seconda del caso che si vuole analizzare cambiare la variabile "riferimento", per il caso "riferimento = 2" si può cambiare la curvatura del profilo aggiungendo la linea media mettendo "config.lm = [1]", lasciare tale valore a 0 se non si vuole curvatura. Per il caso scelto appariranno il plot della pannellizzazione con la distribuzione di circolazione, la circolazione lungo la span e gli angoli indotti al quarto di corda.
