@@ -12,3 +12,10 @@ Descrizioni e riferimenti al report:
 
 - hess_smith.zip: il main di questa cartella va compilato con i file .dat e le mat functions tutte in una stessa cartella, esso presenta cp, cl e cm dei profili, ponendo la variabile 'riferimento' pari a 1 si analizza il NACA0012, mentre ponendo la variabile 'riferimento' pari a qualsiasi altro numero si analizza il profilo B737D (SEZIONE 1.1 DEL REPORT).
 
+- alfa_progetto: altra metodologia basata sull'uniformità del bordo di attacco tramite XFOIL per il confronto dell'alpha di Theodorsen calcolato numericamente in analysis_airfoil.zi (SEZIONE 1.2 DEL REPORT).
+
+- alfa_zero: altra metodologia basata su XFOIL per il confronto dell'alha 0 calcolato numericamente in analysis_airfoil.zip (SEZIONE 1.2 DEL REPORT).
+
+- 
+
+- 
