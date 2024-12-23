@@ -14,6 +14,6 @@ Descrizioni e riferimenti al report:
 
 - alfa_progetto.zip: altra metodologia basata sull'uniformità del bordo di attacco tramite XFOIL per il confronto dell'alpha di Theodorsen calcolato numericamente in analysis_airfoil.zi (SEZIONE 1.2 DEL REPORT).
 
-- alfa_zerolift.zip: altra metodologia basata su XFOIL per il confronto dell'alha 0 calcolato numericamente in analysis_airfoil.zip (SEZIONE 1.2 DEL REPORT).
+- alfa_zerolift.zip: altra metodologia basata su XFOIL per il confronto dell'alpha 0 calcolato numericamente in analysis_airfoil.zip (SEZIONE 1.2 DEL REPORT).
 
 - transizione_&_separazione.zip: script che tramite l'utilizzo di XFOIL analizza transizione e separazione dei profili del NACA0012 e del B737D (SEZIONE 1.3 DEL REPORT).
