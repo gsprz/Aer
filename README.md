@@ -6,4 +6,4 @@ Descrizioni e riferimenti al report:
 
 - weissinger_main_finale.m: lo script deve essere runnato insieme a delle funzioni presenti nella cartella weissinger_cessna_da40.zip. Esso plotta i tre grafici relativi alle polari dei due velivoli con la possibilità di mettere e togliere i piani di coda. Alla fine dello script sono presenti i valori dei parametri geometrici da inserire nelle due sezioni corrispondenti alle code e alle ali dei due velivoli. Le due sezioni in cui modificare i dati sono alle righe 19 e le righe 350.
 
-- Grafico_Gamma_tandem.m: lo script deve essere runnato insieme a delle funzione presenti nella cartella weissinger_cessna_da40.zip. Esso plotta la distribuzione di circolazione lungo lo span considerando sia l'ala che la coda del velivolo. 
+- Grafico_gamma_tandem.m: lo script deve essere runnato insieme a delle funzione presenti nella cartella weissinger_cessna_da40.zip. Esso plotta la distribuzione di circolazione lungo lo span considerando sia l'ala che la coda del velivolo. 
