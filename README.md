@@ -8,4 +8,5 @@ Descrizioni e riferimenti al report:
 
 - Grafico_gamma_tandem.m: lo script deve essere runnato insieme a delle funzione presenti nella cartella weissinger_cessna_da40.zip. Esso plotta la distribuzione di circolazione lungo lo span considerando sia l'ala che la coda del velivolo.
 
-- alaellittica.m: lo script permette di calcolare e fare il grafico della distribuzione ellittica di circolazione associata al velivolo i cui parametri sono stati inseriti nel main. eseguire lo script alaellittica.m dopo aver eseguito il main.
+- alaellittica.m: lo script permette di calcolare e fare il grafico della distribuzione ellittica di circolazione associata al velivolo i cui parametri sono stati inseriti nel main. eseguire lo script alaellittica.m dopo aver eseguito il main di weissinger_cessna_da40.zip.
+
